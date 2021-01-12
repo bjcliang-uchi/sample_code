@@ -4,8 +4,6 @@ Chen Liang
 This repository includes the following graduate research/course projects I worked (mostly on my own).
 
 ### Course_Works:
-*Selected course assignments, only used for PhD applications and available from Jan to Mar 2021.*
-* **Computational_Modeling**: Selected assignments for MACS 30100 Perspectives on Computational Modeling. The course covers principles of model building, including static versus dynamic models, linear versus nonlinear, simple versus complicated, and identification versus overfitting. Major types of models implemented in this course include systems of nonlinear equations, linear and nonlinear regression, supervised learning (decision trees, random forests, support vector machines, etc.), and unsupervised learning. We also explored a wide range of computational strategies to estimate models from data and make statistical and causal inference.
 * **Data_Exploration**: A sample data exploration project for MACS 30000 Perspectives on Computational Analysis. I conducted a exploratory analysis of the General Social Survey (GSS) 2018 data, experimented with various methods to visualize the results, and concluded the most interesting findings in **Exploration_WriteUp.ipynb**.
 * **Spatial_Data_Science**: Four spatial data science projects, implemented on **DeoDa**. I explored methods of exploratory spatial data analysis, such as spatial autocorrelation statistics for aggregate data, and basic spatial regression analysis for point and polygon data. 
 * **amazon_web_service_practice.ipynb**: A sample project of using AWS kinesis to process streaming data and send email alerts.
